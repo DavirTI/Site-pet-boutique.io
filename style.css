@@ -1,0 +1,216 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+
+
+header {
+    width: 100%;
+    height: auto;
+    padding: 120px 80px;
+    background-image: url(img/banner-topo.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.logo {
+    max-width: 250px;
+    color: #3c184e;
+}
+
+.nome-logo {
+    font-size: 35px;
+    margin-bottom: 5px;
+    
+}
+
+.nome-logo img {
+    width: 30px;
+    margin-right: 5px;
+}
+
+.descricao-logo {
+    font-size: 14px;
+    text-align: center;
+}
+
+.titulo {
+    max-width: 1024px;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 70px auto 0 auto;
+    background-color: #ffffffc4;
+    box-shadow: 0 8px 32px #1f26875e;
+    
+}
+
+.titulo h1 {
+    font-size: 60px;
+    color: #3c184e;
+    text-align: center;
+    font-weight: 800;
+    margin-bottom: 40px;
+}
+
+.titulo p {
+    width: 200px;
+    padding: 10px 25px;
+    margin: 0 auto;
+    border-radius: 20px;
+    background-color: #3c184e;
+    font-size: 20px;
+    text-align: center;
+}
+
+.titulo p a {
+    color: #ffffff;
+    width: 20px;
+}
+
+.titulo p a img {
+    width: 20px;
+}
+
+.servicos h2 {
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+.lista-servicos {
+    max-width: 800px;
+    margin: 0 auto 50px ;
+    color: #3c184e;
+}
+
+.lista-servicos li {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.lista-servicos span {
+    font-weight: 700;
+    font-style: italic;
+}
+
+.imagens-servicos {
+    max-width: 800px;
+    margin: 0 auto;
+    justify-content: center;
+}
+    
+.imagens-servicos img {
+    border-radius: 5px;
+    box-shadow: 3px 6px 10px 6px #0000005c;
+}
+
+.faixa {
+    background-color: #3c184e;
+    padding: 120px 80px;
+    justify-content: center;
+}
+
+.faixa p {
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    font-size: 40px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.faixa p span {
+    font-weight: 700;
+    font-style: italic;
+}
+
+.faixa a {
+    margin: 0 20px;
+}
+
+.faixa img {
+    width: 50px;
+    height: 50px;
+}
+
+.faixa div {
+    display: flex;
+    justify-content: center;
+}
+
+.marcas {
+    width: 100vw;
+    padding: 120px 80px;
+}
+
+.marcas h3 {
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+.marcas div {
+    max-width: 800px;
+    margin: 0 auto;
+    
+}
+
+.marcas img {
+    width: 148px;
+    height: 148px;
+    margin: 0 15px;
+}
+
+.localizacao h3 {
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+.localizacao p {
+    font-size: 20px;
+    color: #3c184e;
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+.localizacao iframe {
+    width: 800px;
+    height: 450px;
+}
+
+.localizacao {
+    width: 100vw;
+    padding: 120px 80px;
+    text-align: center;
+}
+
+footer {
+    width: 100vw;
+    padding: 15px 0;
+    background-color: #3c184e;
+}
+
+footer p {
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+
